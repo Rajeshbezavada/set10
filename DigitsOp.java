@@ -25,7 +25,7 @@ class ProductOfDigits100
 {
 	public static void main(String []s)
 	{
-		DigitsOpr dig=new DigitsOpr();
+		DigitsOp dig=new DigitsOp();
 		int n;
 		Scanner sc=new Scanner(System.in);
 		n=sc.nextInt();
